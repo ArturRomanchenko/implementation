@@ -11,6 +11,7 @@
 # Executables and binaries
 *.exe
 *.out
+*a.out
 *.dll
 *.so
 *.dylib
