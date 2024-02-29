@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/wstring.dir/string/src/main.cpp.o -o wstring 
