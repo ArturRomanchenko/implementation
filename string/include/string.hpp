@@ -7,7 +7,7 @@
 #include <cstring>
 
 
-namespace rsl
+namespace core
 {
 
     class String

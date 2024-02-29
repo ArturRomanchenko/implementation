@@ -5,10 +5,10 @@
 
 void first_test()
 {
-    rsl::String s = { 'a', 'b', 'c' }; 
-    rsl::String s2 = { 'a', 'b', 'c', 'd', 'e' }; 
+    core::String s = { 'a', 'b', 'c' }; 
+    core::String s2 = { 'a', 'b', 'c', 'd', 'e' }; 
     std::cout << "s2: " << s2.length() << '\n';
-    rsl::String s3 = s2 + s;
+    core::String s3 = s2 + s;
     std::cout << "s3: " << s3.length() << '\n';
 }
 
