@@ -1,3 +1,0 @@
-/home/psycho/repos/implementation/build/CMakeFiles/wstring.dir
-/home/psycho/repos/implementation/build/CMakeFiles/edit_cache.dir
-/home/psycho/repos/implementation/build/CMakeFiles/rebuild_cache.dir
